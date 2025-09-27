@@ -1,30 +1,100 @@
-<h1 align="center">Hi 👋, I'm lawgaw sefineh</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h1 align="center">Hi 👋, I'm Lawgaw Sefineh</h1>
+<h3 align="center">🚀 Passionate Frontend Developer from Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lawgaw-sefineh&label=Profile%20views&color=0e75b6&style=flat" alt="lawgaw-sefineh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lawgaw-sefineh" alt="lawgaw-sefineh" /></a> </p>
-
-- 🌱 I’m currently learning **Html, Css and JavaScript**
-
-- 💬 Ask me about **C++,Java,Database**
-
-- 📫 How to reach me **lawgawsefineh1@gmail.com**
-
-- ⚡ Fun fact **I think am funny 😁😁😁**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Developer Animation -->
+<p align="center">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="250" alt="developer gif"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lawgaw-sefineh&label=Profile%20views&color=0e75b6&style=flat" alt="lawgaw-sefineh" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/lawgawsefineh1@gmail.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lawgawsefineh1@gmail.com" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lawgaw-sefineh&show_icons=true&locale=en&layout=compact" alt="lawgaw-sefineh" /></p>
+### 🌱 About Me
+- 🔭 I’m currently learning **HTML, CSS, and JavaScript**  
+- 💬 Ask me about **C++, Java, Databases**  
+- 📫 Reach me at: **lawgawsefineh1@gmail.com**  
+- ⚡ Fun fact: **I think I’m funny 😁**  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lawgaw-sefineh&show_icons=true&locale=en" alt="lawgaw-sefineh" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lawgaw-sefineh&" alt="lawgaw-sefineh" /></p>
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lawgaw-sefineh&theme=gruvbox&no-frame=true&margin-w=15" alt="trophies"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:lawgawsefineh1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email badge"/></a>
+  <a href="https://www.buymeacoffee.com/lawgawsefineh1@gmail.com"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy me a coffee"/></a>
+  <a href="mailto:lawgawsefineh1@gmail.com"><img src="https://img.shields.io/badge/Let's%20Collaborate-Work%20With%20Me-blue?style=for-the-badge" alt="collaborate badge"/></a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools — Smart & Clean
+#### 💻 Programming & Markup
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,python" height="50" alt="programming icons"/>
+</p>
+
+#### 🗄️ Databases
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="50" alt="database icons"/>
+</p>
+
+#### ⚙️ Tools & Platforms
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="50" alt="tools icons"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lawgaw-sefineh&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lawgaw-sefineh&theme=tokyonight" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lawgaw-sefineh&show_icons=true&layout=compact&theme=tokyonight" alt="top-langs"/>
+</p>
+
+---
+
+### 🔥 Contributions & Activity (works instantly — no setup)
+<p align="center">
+  <!-- Contribution heatmap (no Actions required) -->
+  <img src="https://ghchart.rshah.org/lawgaw-sefineh" alt="contribution chart" />
+</p>
+
+<p align="center">
+  <!-- Recent activity graph (nice area graph) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lawgaw-sefineh&theme=react-dark&hide_border=true" alt="activity graph" />
+
+
+
+
+</p>
+
+---
+
+### 🎬 Animations & Banner
+<p align="center">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="200" alt="handshake gif">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Designer.gif" width="250" alt="designer gif">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Lawgaw%20Sefineh-Frontend%20Developer-0e75b6?style=for-the-badge&logo=github" alt="badge"/>
+</p>
+<!-- Hero banner (hosted in your repo) -->
+
+
+---
+✨ lets go...
+
