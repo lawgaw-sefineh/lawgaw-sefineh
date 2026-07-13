@@ -11,7 +11,6 @@
 </p>
 
 ---
-
 ### 🌱 About Me
 - 🔭 I’m currently learning **HTML, CSS, and JavaScript**  
 - 💬 Ask me about **C++, Java, Databases**  
