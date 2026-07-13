@@ -11,12 +11,13 @@
 </p>
 
 ---
+
 ### 🌱 About Me
-- 📖 Currently taking the Nexus Front-End Beginner Course! and DSA
 - 🔭 I’m currently learning **HTML, CSS, and JavaScript**  
+- 📖 **Nexus Front-End Course:** Sharpening my skills in modern UI and Web Development.
 - 💬 Ask me about **C++, Java, Databases**  
 - 📫 Reach me at: **lawgawsefineh1@gmail.com**  
-- ⚡ Fun fact: **I think I’m funny 😁 (and my code compiles on the first try... sometimes) and  I write CSS in my sleep 😴**  
+- ⚡ Fun fact: **I think I’m funny 😁 (and my code compiles on the first try... sometimes)**  
 
 ---
 
@@ -101,3 +102,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Lawgaw%20Sefineh-Frontend%20Developer-0e75b6?style=for-the-badge&logo=github" alt="badge"/>
 </p>
+
+---
+⭐ **Don't forget to star this repository if you like my profile!**
