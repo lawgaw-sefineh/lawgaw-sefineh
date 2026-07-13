@@ -34,7 +34,6 @@
   <a href="mailto:lawgawsefineh1@gmail.com"><img src="https://img.shields.io/badge/Let's%20Collaborate-Work%20With%20Me-blue?style=for-the-badge" alt="collaborate badge"/></a>
 </p>
 
----
 
 ### 🛠️ Languages & Tools — Smart & Clean
 #### 💻 Programming & Markup
