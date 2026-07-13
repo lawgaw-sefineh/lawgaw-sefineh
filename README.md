@@ -16,7 +16,7 @@
 - 🔭 I’m currently learning **HTML, CSS, and JavaScript**  
 - 💬 Ask me about **C++, Java, Databases**  
 - 📫 Reach me at: **lawgawsefineh1@gmail.com**  
-- ⚡ Fun fact: **I think I’m funny 😁 (and my code compiles on the first try... sometimes)**  
+- ⚡ Fun fact: **I think I’m funny 😁 (and my code compiles on the first try... sometimes) and  I write CSS in my sleep 😴**  
 
 ---
 
