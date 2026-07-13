@@ -12,6 +12,7 @@
 
 ---
 ### 🌱 About Me
+- 📖 Currently taking the Nexus Front-End Beginner Course! and DSA
 - 🔭 I’m currently learning **HTML, CSS, and JavaScript**  
 - 💬 Ask me about **C++, Java, Databases**  
 - 📫 Reach me at: **lawgawsefineh1@gmail.com**  
